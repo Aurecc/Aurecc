@@ -1,6 +1,6 @@
 # About Me - Data Analyst Journey
 
-Welcome to my GitHub repository! I'm thrilled to share my journey into the world of Data with you.
+Welcome to my GitHub! I'm thrilled to share my journey into the world of Data with you.
 
 My name is Aurelio Camarero.
 
