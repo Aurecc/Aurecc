@@ -18,4 +18,4 @@ My passion for data is not just about numbers and algorithms; it's about the sto
 
 I am eager to collaborate with peers, mentors, and organizations that share my enthusiasm for uncovering the narratives hidden within data. If you're interested in connecting or learning more about my work, please feel free to reach out through this platform.
 
-Thank you for visiting, and I look forward to contributing to the field of Data Analysis with integrity and innovation inspired by my previous experiences.
+Thank you for visiting, and I look forward to contributing to the field.
